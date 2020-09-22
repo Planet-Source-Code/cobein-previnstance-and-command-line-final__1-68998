@@ -1,0 +1,16 @@
+[History]
+B0=Proyecto1/Form2/f_cPI_PrevInstance
+B1=Proyecto1/cPrevInstance
+B2=Proyecto1/cPrevInstance/ParseData
+B3=Proyecto1/cPrevInstance/EnumWindowsProc
+B4=Proyecto1/cPrevInstance/GetCommand
+B5=Proyecto1/cPrevInstance/PrevInstance
+B6=Proyecto1/cPrevInstance/Class_Initialize
+B7=Proyecto1/cPrevInstance/Ready
+B8=Proyecto1/cPrevInstance/ShowForm
+B9=Proyecto1/cPrevInstance/ssc_Subclass
+B10=Proyecto1/cPrevInstance/WndProc
+B11=Proyecto1/Form2/Form_Load
+B12=Proyecto1/Form1/Form_Load
+B13=Proyecto1/Form1/f_cPI_PrevInstance
+B14=Proyecto1/cPrevInstance/File_Exists
